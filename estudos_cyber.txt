@@ -100,4 +100,24 @@ logs/atalho_relatorio
 [?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desktop/ESTUDO CYBER\]666;vte.shell.precmd!\[?2004h]0;cybergod@Ubuntu: ~/Desktop/ESTUDO CYBER[01;32mcybergod@Ubuntu[00m:[01;34m~/Desktop/ESTUDO CYBER[00m$ MV[K[K# mov[K[K[Kmoverei os novos arquivos ptr[K[Ka[Kratia[Kcados para dentro do projeot[K[Kto
 [?2004l]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desktop/ESTUDO CYBER\]666;vte.shell.precmd!\[?2004h]0;cybergod@Ubuntu: ~/Desktop/ESTUDO CYBER[01;32mcybergod@Ubuntu[00m:[01;34m~/Desktop/ESTUDO CYBER[00m$ mv ~/estudo_cyber ./ 2>/dev/null || true
 [?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desktop/ESTUDO CYBER\]666;vte.shell.precmd!\[?2004h]0;cybergod@Ubuntu: ~/Desktop/ESTUDO CYBER[01;32mcybergod@Ubuntu[00m:[01;34m~/Desktop/ESTUDO CYBER[00m$ #Salvando e enviando para o GitHub
-[?2004l]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desk
+[?2004l]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desktop/ESTUDO CYBER\]666;vte.shell.precmd!\[?2004h]0;cybergod@Ubuntu: ~/Desktop/ESTUDO CYBER[01;32mcybergod@Ubuntu[00m:[01;34m~/Desktop/ESTUDO CYBER[00m$ git add .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desktop/ESTUDO CYBER\]666;vte.shell.precmd!\[?2004h]0;cybergod@Ubuntu: ~/Desktop/ESTUDO CYBER[01;32mcybergod@Ubuntu[00m:[01;34m~/Desktop/ESTUDO CYBER[00m$ git commit -m "Pratica de lao[Kboratorio: Processos, Logs, Tar, links e r edirecionamento[K[K[K[K[Kdores!~"[K[K[K"
+[?2004l]133;C\]666;vte.shell.preexec!\[main a03acfd] Pratica de laboratorio: Processos, Logs, Tar, links e redirecionadores
+ 4 files changed, 110 insertions(+)
+ create mode 100644 estudo_cyber/m2_redes/backup_logs.tar.gz
+ create mode 120000 estudo_cyber/m2_redes/logs/atalho_relatorio
+ create mode 100644 estudo_cyber/m2_redes/logs/relatorio.txt
+ create mode 100644 estudos_cyber.txt
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desktop/ESTUDO CYBER\]666;vte.shell.precmd!\[?2004h]0;cybergod@Ubuntu: ~/Desktop/ESTUDO CYBER[01;32mcybergod@Ubuntu[00m:[01;34m~/Desktop/ESTUDO CYBER[00m$ git push
+[?2004l]133;C\]666;vte.shell.preexec!\Enumerating objects: 10, done.
+Counting objects:  10% (1/10)Counting objects:  20% (2/10)Counting objects:  30% (3/10)Counting objects:  40% (4/10)Counting objects:  50% (5/10)Counting objects:  60% (6/10)Counting objects:  70% (7/10)Counting objects:  80% (8/10)Counting objects:  90% (9/10)Counting objects: 100% (10/10)Counting objects: 100% (10/10), done.
+Delta compression using up to 3 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  11% (1/9)Writing objects:  22% (2/9)Writing objects:  33% (3/9)Writing objects:  44% (4/9)Writing objects:  55% (5/9)Writing objects:  66% (6/9)Writing objects:  77% (7/9)Writing objects:  88% (8/9)Writing objects: 100% (9/9)Writing objects: 100% (9/9), 4.16 KiB | 4.16 MiB/s, done.
+Total 9 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/AlexFerreira1996/estudos-redes-linux.git
+   4eaa43f..a03acfd  main -> main
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/cybergod/Desktop/ESTUDO%20CYBER\]0;cybergod@Ubuntu:~/Desktop/ESTUDO CYBER\]666;vte.shell.precmd!\[?2004h]0;cybergod@Ubuntu: ~/Desktop/ESTUDO CYBER[01;32mcybergod@Ubuntu[00m:[01;34m~/Desktop/ESTUDO CYBER[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script concluído em 2026-08-19 00:35:03+00:00 [COMMAND_EXIT_CODE="0"]
